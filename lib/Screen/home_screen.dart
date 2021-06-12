@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
                       horizontal: 20.0,
                     ),
                     child: Text(
-                      "Name: BIBIN ",
+                      "Name: Vinu Balagopal A P ",
                       style: TextStyle(
                         fontSize: 24,
                         color: Colors.indigo,
