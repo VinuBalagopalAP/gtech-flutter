@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class ProfileEdit extends StatelessWidget {
+class Hobbies extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(),
+    return Container(
+      child: null,
     );
   }
 }
